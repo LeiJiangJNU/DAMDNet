@@ -33,3 +33,23 @@ of challenging disguised faces.The model parameters and the complexity of the pr
 
 If you have any question about this code, feel free to reach me(ljiang_jnu@outlook.com)
 ## Citation
+If you find this repository useful for your research, please cite the following paper:
+```
+@inproceedings{jiang2019dual,
+  title={Dual Attention MobDenseNet (DAMDNet) for Robust 3D Face Alignment},
+  author={Jiang, Lei and Wu, Xiao-Jun and Kittler, Josef},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision Workshops},
+  pages={0--0},
+  year={2019}
+}
+```
+```
+@inproceedings{jiang2019robust,
+  title={Robust 3D Face Alignment with Efficient Fully Convolutional Neural Networks},
+  author={Jiang, Lei and Wu, Xiao-Jun and Kittler, Josef},
+  booktitle={International Conference on Image and Graphics},
+  pages={266--277},
+  year={2019},
+  organization={Springer}
+}
+```
